@@ -1,6 +1,6 @@
 # Boris Gjorgievski
 
-Backend Engineer focused on AWS serverless architecture.
+Software Engineer focused on AWS serverless architecture.
 
 ## Current Focus
 - AWS Lambda + DynamoDB architectures
